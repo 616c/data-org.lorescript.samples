@@ -1,2 +1,6 @@
-# data-org.lorescript.samples
-Sample lorescript scrolls
+data-org.lorescript.samples
+========================
+
+This repository contains sample lorescript scrolls
+
+
